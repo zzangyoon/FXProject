@@ -1,0 +1,8 @@
+VBox{	/*앞에 -fx- 가 붙는게 특징!*/
+	-fx-background-color:pink;	
+	-fx-alignment:top-center;
+	-fx-spacing:5;
+}
+VBox TextField{
+	-fx-pref-width:200;
+}
